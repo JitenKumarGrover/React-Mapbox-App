@@ -1,0 +1,44 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "County Name": "Gurgaon",
+        "County Code": "GGN",
+        "SHEF Id": "GGN01",
+        "Station Id": "914",
+        "HUC12 (12-digit)": "NA",
+        "HUC8 Name": "NA",
+        "Acton Id": "11G56N",
+        "HUC6 Name": "NA",
+        "Start Date": "2024-09-19",
+        "HUC10 (10-digit)": "NA",
+        "HUC4 Name": "NA",
+        "HUC2 Name": "NA",
+        "DCO": "HR",
+        "End Date": "2100-01-01",
+        "HUC12 Name": "NA",
+        "HUC10 Name": "NA",
+        "Station Name": "Gurgaon Station",
+        "State Name": "HARYANA",
+        "HUC6 (6-digit)": "NA",
+        "HUC4 (4-digit)": "NA",
+        "HUC2 (2-digit)": "NA",
+        "HUC8 (8-digit)": "NA",
+        "State Code": "HR",
+        "Network Name": "IN-MET",
+        "Elevation": "717",
+        "Network Code": "IMT",
+        "Report Time Zone (Offset from GMT)": "+5.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.0369,
+          28.4595
+        ],
+        "type": "Point"
+      },
+      "id": "GGN584165a336ba397246ca94e36"
+    }
+  ]
+}
